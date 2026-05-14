@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=astrazdq&label=Profile%20views&color=0e75b6&style=flat" alt="astrazdq" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=astrazdq" alt="astrazdq" />
-  </a> 
-</p>
 
 - 🔭 I’m currently working on [AgOs](https://github.com/AstraZdq/AgOs)
 
