@@ -4,6 +4,11 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=astrazdq&label=Profile%20views&color=0e75b6&style=flat" alt="astrazdq" /> 
 </p>
+<p align="left">
+  <a href="https://discord.gg/q89v" target="blank">
+    <img src="https://img.shields.io/badge/Discord-q89v-5865F2?style=social&logo=discord" alt="discord" />
+  </a>
+</p>
 
 
 - 🔭 I’m currently working on [AgOs](https://github.com/AstraZdq/AgOs)
